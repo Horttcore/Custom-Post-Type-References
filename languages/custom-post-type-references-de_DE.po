@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Post Type References v1.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-03-24 10:42:00+0000\n"
+"Last-Translator: horttcore <me@horttcore.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: classes/custom-post-type-references.admin.php:55
+#: classes/custom-post-type-references.admin.php:58
+#@ custom-post-type-references
+msgid "Reference updated."
+msgstr "Referenz aktualisiert."
+
+#: classes/custom-post-type-references.admin.php:56
+#@ default
+msgid "Custom field updated."
+msgstr ""
+
+#: classes/custom-post-type-references.admin.php:57
+#@ default
+msgid "Custom field deleted."
+msgstr ""
+
+#: classes/custom-post-type-references.admin.php:59
+#, php-format
+#@ custom-post-type-references
+msgid "Reference restored to revision from %s"
+msgstr "Referenz aus Überarbeitung vom %s wiederhergestellt"
+
+#: classes/custom-post-type-references.admin.php:60
+#@ custom-post-type-references
+msgid "Reference published."
+msgstr "Referenz veröffentlicht."
+
+#: classes/custom-post-type-references.admin.php:61
+#@ custom-post-type-references
+msgid "Reference saved."
+msgstr "Referenz gespeichert."
+
+#: classes/custom-post-type-references.admin.php:62
+#@ custom-post-type-references
+msgid "Reference submitted."
+msgstr "Referenz übertragen."
+
+#: classes/custom-post-type-references.admin.php:63
+#, php-format
+#@ custom-post-type-references
+msgid "Reference scheduled for: <strong>%1$s</strong>."
+msgstr "Veröffentlichung geplant für: <strong>%1$s</strong>."
+
+#: classes/custom-post-type-references.admin.php:63
+#@ custom-post-type-references
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: classes/custom-post-type-references.admin.php:64
+#@ custom-post-type-references
+msgid "Reference draft updated."
+msgstr "Der Referenceentwurf wurde aktualisiert."
+
+#: classes/custom-post-type-references.php:67
+#@ custom-post-type-references
+msgctxt "post type general name"
+msgid "References"
+msgstr "Referenzen"
+
+#: classes/custom-post-type-references.php:68
+#@ custom-post-type-references
+msgctxt "post type singular name"
+msgid "Reference"
+msgstr "Referenz"
+
+#: classes/custom-post-type-references.php:69
+#@ custom-post-type-references
+msgctxt "Reference"
+msgid "Add New"
+msgstr "Erstellen"
+
+#: classes/custom-post-type-references.php:70
+#@ custom-post-type-references
+msgid "Add New Reference"
+msgstr "Neues Referenz erstellen"
+
+#: classes/custom-post-type-references.php:71
+#@ custom-post-type-references
+msgid "Edit Reference"
+msgstr "Referenz bearbeiten"
+
+#: classes/custom-post-type-references.php:72
+#@ custom-post-type-references
+msgid "New Reference"
+msgstr "Neues Referenz"
+
+#: classes/custom-post-type-references.php:73
+#@ custom-post-type-references
+msgid "View Reference"
+msgstr "Referenz ansehen"
+
+#: classes/custom-post-type-references.php:74
+#@ custom-post-type-references
+msgid "Search References"
+msgstr "Referenzen durchsuchen"
+
+#: classes/custom-post-type-references.php:75
+#@ custom-post-type-references
+msgid "No References found"
+msgstr "Keine Referenzen gefunden"
+
+#: classes/custom-post-type-references.php:76
+#@ custom-post-type-references
+msgid "No References found in Trash"
+msgstr "Keine Referenzen im Papierkorb gefunden"
+
+#: classes/custom-post-type-references.php:78
+#@ custom-post-type-references
+msgid "References"
+msgstr "Referenzen"
+
+#: classes/custom-post-type-references.php:85
+#@ custom-post-type-references
+msgctxt "post type slug"
+msgid "references"
+msgstr "referenzen"
+
+#. translators: plugin header field 'Name'
+#: plugin.php:0
+#@ custom-post-type-references
+msgid "Custom Post Type References"
+msgstr "Custom Post Type Referenzen"
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: plugin.php:0
+#@ custom-post-type-references
+msgid "http://horttcore.de"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: plugin.php:0
+#@ custom-post-type-references
+msgid "Manage references"
+msgstr "Referenzen verwalten"
+
+#. translators: plugin header field 'Author'
+#: plugin.php:0
+#@ custom-post-type-references
+msgid "Ralf Hortt"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: plugin.php:0
+#@ custom-post-type-references
+msgid "1.1.0"
+msgstr ""
+
+#: classes/custom-post-type-references.php:111
+#@ custom-post-type-references
+msgctxt "taxonomy general name"
+msgid "Reference Categories"
+msgstr "Referenz Kategorien"
+
+#: classes/custom-post-type-references.php:112
+#@ custom-post-type-references
+msgctxt "taxonomy singular name"
+msgid "Reference Category"
+msgstr "Referenz Kategorie"
+
+#: classes/custom-post-type-references.php:113
+#@ custom-post-type-references
+msgid "Search Reference Categories"
+msgstr "Referenz Kategorie suchen"
+
+#: classes/custom-post-type-references.php:114
+#@ custom-post-type-references
+msgid "All Reference Categories"
+msgstr "Alle Referenz Kategorien"
+
+#: classes/custom-post-type-references.php:115
+#@ custom-post-type-references
+msgid "Parent Reference Category"
+msgstr "Übergeordnete Referenz Kategorie"
+
+#: classes/custom-post-type-references.php:116
+#@ custom-post-type-references
+msgid "Parent Reference Category:"
+msgstr "Übergeordnete Referenz Kategorie:"
+
+#: classes/custom-post-type-references.php:117
+#@ custom-post-type-references
+msgid "Edit Reference Category"
+msgstr "Referenz Kategorie bearbeiten"
+
+#: classes/custom-post-type-references.php:118
+#@ custom-post-type-references
+msgid "Update Reference Category"
+msgstr "Referenz Kategorie aktualisieren"
+
+#: classes/custom-post-type-references.php:119
+#@ custom-post-type-references
+msgid "Add New Reference Category"
+msgstr "Neue Referenz Kategorie erstellen"
+
+#: classes/custom-post-type-references.php:120
+#@ custom-post-type-references
+msgid "New Reference Category Name"
+msgstr "Neuer Referenz Kategoriename"
+
+#: classes/custom-post-type-references.php:121
+#@ custom-post-type-references
+msgid "Reference Categories"
+msgstr "Referenz Kategorien"
+
+#: classes/custom-post-type-references.admin.php:71
+#@ custom-post-type-references
+msgid "View reference"
+msgstr "Referenz ansehen"
+
+#: classes/custom-post-type-references.admin.php:77
+#@ custom-post-type-references
+msgid "Preview reference"
+msgstr "Referenzvorschau"
+
+#: classes/custom-post-type-references.php:125
+#@ custom-post-type-references
+msgctxt "Reference Category Slug"
+msgid "reference-category"
+msgstr "referenz-kategorie"
+
